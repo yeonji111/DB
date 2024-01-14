@@ -151,14 +151,21 @@ where user_id = 24;
 
 
 
-############################################## 시나리오에는 없는 부분이라 여쭤보고 추가하기로 결론나면 추가하기로..
-# 최종 예약한 날짜, 시간대에 timetable_status 를 'n'으로 변경 후,
-# 기존 예약은 'y'로 예약 가능 상태 변경
-update
-set 
 
-update
-set 
+# 승환님 담당 재고 개수 변경 SQL문 같이 고민해본것
 
-###############################################
+
+# A) 모든 처방에 따른 재고 개수 변경(여러 처방을 바탕으로 한번에 여러 재고의 개수를 변경하는 것)
+update stock_management s, treatment t
+set s.stock_remnants = (s.stock_remnants - 1)
+where t.stock_id = s.stock_id;
+
+# B) 사용자(환자) 이건희 처방에 따른 해당하는 재고 개수만 변경 (stock_id = 6인것만 차감)
+update stock_management s, treatment t, user u
+set s.stock_remnants = (s.stock_remnants - 1)
+where s.stock_id = t.stock_id
+and u.user_id = 24
+and t.user_id = u.user_id;
+
+
 

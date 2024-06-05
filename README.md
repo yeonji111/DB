@@ -2,12 +2,12 @@
 
 ## 목표 : 병원 진료 예약 시스템을 구현하고자 할 때 테이블을 어떻게 구성해야하고 정의한 테이블을 사용해 시나리오에 따라 변화하는 SQL을 작성해보자 ! 
 
-### 요구사항 정의서
-<a href="https://github.com/yeonji111/DBProject-MediNet/blob/main/%EC%A7%84%EB%A3%8C%EC%98%88%EC%95%BD_%EB%B3%91%EC%9B%90%20%EC%9A%94%EA%B5%AC%EC%82%AC%ED%95%AD%EC%A0%95%EC%9D%98%EC%84%9C_0108_%EB%B0%95%EC%97%B0%EC%A7%80.xlsx">
+
+<a href="https://github.com/yeonji111/DBProject-MediNet/blob/main/%EC%A7%84%EB%A3%8C%EC%98%88%EC%95%BD_%EB%B3%91%EC%9B%90%20%EC%9A%94%EA%B5%AC%EC%82%AC%ED%95%AD%EC%A0%95%EC%9D%98%EC%84%9C_0108_%EB%B0%95%EC%97%B0%EC%A7%80.xlsx">### 요구사항 정의서</a>
+
 ![image](https://github.com/yeonji111/DBProject-MediNet/assets/154227258/67ca04f8-86ab-4dd1-9568-2438b7ff94a5)
 ![image](https://github.com/yeonji111/DBProject-MediNet/assets/154227258/dd3e641d-07d7-4711-8590-f90bc56c9a4b)
 ![image](https://github.com/yeonji111/DBProject-MediNet/assets/154227258/6701c93e-63c6-4dbb-95ee-4aba6e138cb6)
-</a>
 
 
 ### USECASE

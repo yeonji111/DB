@@ -45,5 +45,4 @@
 
 ![image](https://github.com/yeonji111/DBProject-MediNet/assets/154227258/84e38837-0af8-47d0-a743-a0bdd2b8f7d2)
 ![image](https://github.com/yeonji111/DBProject-MediNet/assets/154227258/5721bd66-19a7-43da-bbe1-2afffafd2752)
-![image](https://github.com/yeonji111/DBProject-MediNet/assets/154227258/7decc210-caa8-4d6e-aa4a-e5ad00d21888)
 

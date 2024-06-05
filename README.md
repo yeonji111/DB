@@ -35,9 +35,15 @@
 
 
 <a href = "https://github.com/yeonji111/DBProject-MediNet/blob/main/%EC%A7%84%EB%A3%8C%EC%98%88%EC%95%BD_%EC%8B%9C%EB%82%98%EB%A6%AC%EC%98%A4%20SQL%EB%AC%B8_%EC%B5%9C%EC%A2%85%20%EC%B7%A8%ED%95%A9%EB%B3%B8.odt">시나리오 테스트</a>
+
 ![image](https://github.com/yeonji111/DBProject-MediNet/assets/154227258/4a5414e7-aca2-4e07-9996-23d2006dfe7e)
 ![image](https://github.com/yeonji111/DBProject-MediNet/assets/154227258/d51ead8d-a121-49e4-9e1e-ba5836704af9)
 
 
 
 <a href="https://github.com/yeonji111/DBProject-MediNet/blob/main/%EC%A7%84%EB%A3%8C%EC%98%88%EC%95%BD_%EB%B0%9C%ED%91%9C%EC%9A%A9%20PPT.show">발표 PPT</a>
+
+![image](https://github.com/yeonji111/DBProject-MediNet/assets/154227258/84e38837-0af8-47d0-a743-a0bdd2b8f7d2)
+![image](https://github.com/yeonji111/DBProject-MediNet/assets/154227258/5721bd66-19a7-43da-bbe1-2afffafd2752)
+![image](https://github.com/yeonji111/DBProject-MediNet/assets/154227258/7decc210-caa8-4d6e-aa4a-e5ad00d21888)
+
